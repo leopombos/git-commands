@@ -23,3 +23,7 @@ Permet de pousser les modifications en ligne
 
 -Permet de lister les modifications a traiter
 -Permet de verifier le statut du repertoire
+
+## git log
+
+Permet de lister les modifications en local
