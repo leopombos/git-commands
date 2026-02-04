@@ -1,23 +1,23 @@
 # commandes git
 
-liste des commandes git
+-liste des commandes git
 
 # git init
 
-Permet d'initialiser un repertoire
+-Permet d'initialiser un repertoire
 
 ## git add
 
-Permet d'ajouter un fichier ou des modifications dans le stagging
+-Permet d'ajouter un fichier ou des modifications dans le stagging
 
 ## git commit
 
-Permet d'enregistrer une modification en local
-le message est important
+-Permet d'enregistrer une modification en local
+-le message est important
 
 ## git Push
 
-Permet de pousser les modifications en ligne
+-Permet de pousser les modifications en ligne
 
 ## git Status
 
@@ -26,11 +26,11 @@ Permet de pousser les modifications en ligne
 
 ## git log
 
-Permet de lister les modifications en local
+-Permet de lister les modifications en local
 
 ## git branch
 
-Permet de creer une branche
+-Permet de creer une branche
 
 ## git checkout
 
